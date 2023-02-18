@@ -53,7 +53,7 @@ public class ArrayLists01 {
             // nums.remove(52);   //Hatali Kod
             //System.out.println("nums = " + nums);
         /*
-​
+
         remove() methodunun icerisine tamsayi yazarsaniz
         Java bunu index kabul eder.Silinecek eleman olarak algilamaz
         Tum tamsayilar aksi belirtiledikce primitive int 'dir
